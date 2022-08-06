@@ -66,6 +66,11 @@ header {
   margin: 10px;
 }
 
+.flexBox iframe {
+  margin: 10px;
+  
+}
+
 .flexBox img {
   margin: 7px 7px;
 }
