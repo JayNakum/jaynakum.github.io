@@ -71,6 +71,11 @@ header {
   
 }
 
+.small {
+  height: 200px;
+  width: 250px;
+}
+
 .flexBox img {
   margin: 7px 7px;
 }
