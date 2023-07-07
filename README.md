@@ -20,6 +20,8 @@ I am always open to collaborate and follow up on suggestions, so please feel fre
 [![LiViD](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=LiViD)](https://github.com/JayNakum/LiViD)
 [![eXPe](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=eXPe)](https://github.com/JayNakum/eXPe)
 
+[view more](https://github.com/JayNakum?tab=repositories)
+
 ---
 
 ### Achievements and Certificates
