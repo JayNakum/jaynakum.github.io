@@ -1,4 +1,4 @@
-![jaynakum.github.io](https://github.com/JayNakum/JayNakum/assets/45930809/148d7fe5-581d-49b4-a188-cd6e0458da6d)
+[![jaynakum.github.io](https://jaynakum.github.io/JayNakum/assets/45930809/148d7fe5-581d-49b4-a188-cd6e0458da6d)](https://jaynakum.github.io/)
 
 ### Greetings everyone! ✌️
 I am a passionate enthusiast of computer graphics and graphics programming, with a particular interest in low-level game engines and GPUs. I find joy in optimizing algorithms to achieve the best possible performance.  
@@ -12,15 +12,15 @@ I am always open to collaborate and follow up on suggestions, so please feel fre
 
 ### Projects
 
-[![HappyFace](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=HappyFace)](https://github.com/JayNakum/HappyFace)
-[![BitNCrypt](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=BitNCrypt)](https://github.com/JayNakum/BitNCrypt)
-[![OutForDelivery](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=OutForDelivery)](https://github.com/JayNakum/OutForDelivery)
-[![CppLog](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=CppLog)](https://github.com/JayNakum/CppLog)
-[![OperatingSystemsProject](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=OperatingSystemsProject)](https://github.com/JayNakum/OperatingSystemsProject)
-[![LiViD](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=LiViD)](https://github.com/JayNakum/LiViD)
-[![eXPe](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=eXPe)](https://github.com/JayNakum/eXPe)
+[![HappyFace](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=HappyFace)](https://jaynakum.github.io/HappyFace)
+[![BitNCrypt](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=BitNCrypt)](https://jaynakum.github.io/BitNCrypt)
+[![OutForDelivery](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=OutForDelivery)](https://jaynakum.github.io/OutForDelivery)
+[![CppLog](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=CppLog)](https://jaynakum.github.io/CppLog)
+[![OperatingSystemsProject](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=OperatingSystemsProject)](https://jaynakum.github.io/OperatingSystemsProject)
+[![LiViD](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=LiViD)](https://jaynakum.github.io/LiViD)
+[![eXPe](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=eXPe)](https://jaynakum.github.io/eXPe)
 
-[view more](https://github.com/JayNakum?tab=repositories)
+[view more](https://jaynakum.github.io?tab=repositories)
 
 ---
 
@@ -33,7 +33,7 @@ I am always open to collaborate and follow up on suggestions, so please feel fre
 ---
 
 ### Let's Connect
-[![github.com/JayNakum](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayNakum)
+[![jaynakum.github.io](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://jaynakum.github.io)
 [![linkedin.com/in/JayNakum](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JayNakum)
 [![twitter.com/JayNakum_](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JayNakum_)
 [![youtube.com/@nakumjay](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nakumjay)
