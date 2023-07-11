@@ -1,4 +1,4 @@
-[![jaynakum.github.io](https://jaynakum.github.io/JayNakum/assets/45930809/148d7fe5-581d-49b4-a188-cd6e0458da6d)](https://jaynakum.github.io/)
+[![jaynakum.github.io](https://github.com/JayNakum/jaynakum.github.io/assets/45930809/298258d2-56f3-43c5-9470-a33ef6edf8a9)](https://jaynakum.github.io/)
 
 ### Greetings everyone! ✌️
 I am a passionate enthusiast of computer graphics and graphics programming, with a particular interest in low-level game engines and GPUs. I find joy in optimizing algorithms to achieve the best possible performance.  
