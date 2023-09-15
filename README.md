@@ -33,7 +33,7 @@ I am always open to collaborate and follow up on suggestions, so please feel fre
 ---
 
 ### Let's Connect
-[![jaynakum.github.io](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://jaynakum.github.io)
+[![github.com/JayNakum](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayNakum)
 [![linkedin.com/in/JayNakum](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JayNakum)
 [![twitter.com/JayNakum_](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JayNakum_)
 [![youtube.com/@nakumjay](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nakumjay)
