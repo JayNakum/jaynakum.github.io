@@ -24,7 +24,7 @@ I am always open to collaborate and follow up on suggestions, so please feel fre
 [![LiViD](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=LiViD)](https://jaynakum.github.io/LiViD)
 [![eXPe](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=eXPe)](https://jaynakum.github.io/eXPe)
 
-[view more](https://jaynakum.github.io?tab=repositories)
+[view more](https://github.com/JayNakum?tab=repositories)
 
 ---
 
