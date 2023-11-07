@@ -14,6 +14,7 @@ I am always open to collaborate and follow up on suggestions, so please feel fre
 ### Projects
 
 [![Vibrato](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=Vibrato)](https://github.com/JayNakum/Vibrato)
+[![BitsApriori](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=BitsApriori)](https://github.com/JayNakum/BitsApriori)
 [![Clef](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=Clef)](https://github.com/JayNakum/Clef)
 [![HappyFace](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=HappyFace)](https://jaynakum.github.io/HappyFace)
 [![BitNCrypt](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=BitNCrypt)](https://jaynakum.github.io/BitNCrypt)
