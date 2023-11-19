@@ -7,7 +7,7 @@ I am always open to collaborate and follow up on suggestions, so please feel fre
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayNakum&layout=donut&exclude_repo=LearningNLP,LearningRayTracing,LearningGPUs,LearningOpenGL,LearningWebGL,LearningCpp,LearningDIP,LearningAI,LearningFlutter,LearningPython,LearningFlask,LearningDBMS,LearningShellScripts,LearningJava,LearningAndroid)
 
-[![My Blog](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=blog)](https://jaynakum.github.io/blog/)  
+[![My Blog](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=blog)](https://jaynakum.github.io/blog/)
 [![My Resume](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=MyResume)](https://github.com/JayNakum/Resume/blob/main/Documents/Jay_Nakum_Resume.pdf)  
 
 ---
