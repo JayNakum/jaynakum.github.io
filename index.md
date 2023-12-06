@@ -1,4 +1,4 @@
-[![jaynakum.github.io](./assets/banner.png)](https://jaynakum.github.io/)
+[![jaynakum.github.io](./assets/header.png)](https://jaynakum.github.io/)
 ### Greetings everyone! ✌️
 I am a passionate enthusiast of computer graphics and graphics programming, with a particular interest in low-level game engines and GPUs. I like thinking logically and I find joy in solving logical problems and optimizing algorithms to achieve the best possible performance.  
 I love the idea of interacting with hardware from the software point of view, hence the interest in C/C++ & CUDA; and I love watching interesting visual outputs on screen, hence computer graphics!  
