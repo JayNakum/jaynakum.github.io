@@ -1,26 +1,28 @@
 [![jaynakum.github.io](./assets/header.png)](https://jaynakum.github.io/)
 ### Greetings everyone! ✌️
-I am a passionate enthusiast of computer graphics and graphics programming, with a particular interest in low-level game engines and GPUs. I like thinking logically and I find joy in solving logical problems and optimizing algorithms to achieve the best possible performance.  
-I love the idea of interacting with hardware from the software point of view, hence the interest in C/C++ & CUDA; and I love watching interesting visual outputs on screen, hence computer graphics!  
-In my free time, you can find me tinkering with low level game engines and ray tracers. When I'm not geeking out over the latest tech, I enjoy playing my guitar.  
-I am always open to collaborate and follow up on suggestions, so please feel free to reach out if you share similar interests. Let's connect and see what we can achieve together!  
+I am a computer graphics and GPU programming enthusiast with a deep specialization in graphics API and low-level engine architecture. I thrive on the challenge of interacting directly with hardware, utilizing C/C++ to solve complex logical problems and optimize rendering algorithms for absolute peak performance.
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayNakum&layout=donut&exclude_repo=LearningNLP,LearningRayTracing,LearningGPUs,LearningOpenGL,LearningWebGL,LearningCpp,LearningDIP,LearningAI,LearningFlutter,LearningPython,LearningFlask,LearningDBMS,LearningShellScripts,LearningJava,LearningAndroid)
+My passion lies at the intersection of hardware and software, architecting robust, high-performance systems from the ground up that maximize modern GPU capabilities. I am driven by the pursuit of hardware-level perfection and a desire to push the boundaries of graphics tech.
 
-[![My Blog](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=blog)](https://jaynakum.github.io/blog/)
-[![My Resume](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=MyResume)](https://github.com/JayNakum/Resume/blob/main/Documents/Jay_Nakum_Resume.pdf)  
+In my free time, you can find me tinkering with my custom rendering engines, software renderers and ray tracers. When I am not geeking out over the latest graphics APIs, I enjoy stepping away from the screen to play my guitar.
+
+I am always open to collaborating on cutting-edge rendering projects or discussing low-level graphics optimizations. Please feel free to reach out if you share similar interests, let's connect and see what we can achieve together!
+
+[![My Blog](https://img.shields.io/badge/-Blog-0A66C2?style=for-the-badge&logo=github)](https://jaynakum.github.io/blog/)  
+[![My Resume](https://img.shields.io/badge/-Resume-0A66C2?style=for-the-badge&logo=overleaf)](https://github.com/JayNakum/Resume/blob/main/Documents/Jay_Nakum_Resume.pdf)
 
 ---
 
 ### Projects
+[![Vibrato](https://img.shields.io/badge/GitHub-Vibrato-black?style=for-the-badge&logo=github&logoColor=white)](https://jaynakum.github.io/Vibrato)
 
-[![Vibrato](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=Vibrato)](https://jaynakum.github.io/Vibrato)
-[![BitsApriori](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=BitsApriori)](https://jaynakum.github.io/BitsApriori)
-[![Clef](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=Clef)](https://jaynakum.github.io/Clef)
-[![HappyFace](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=HappyFace)](https://jaynakum.github.io/HappyFace)
-[![BitNCrypt](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=BitNCrypt)](https://jaynakum.github.io/BitNCrypt)
-[![OutForDelivery](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=OutForDelivery)](https://jaynakum.github.io/OutForDelivery)
-[![CppLog](https://github-readme-stats.vercel.app/api/pin/?username=JayNakum&repo=CppLog)](https://jaynakum.github.io/CppLog)
+[![BitsApriori](https://img.shields.io/badge/GitHub-BitsApriori-black?style=for-the-badge&logo=github&logoColor=white)](https://jaynakum.github.io/BitsApriori)
+
+[![Clef](https://img.shields.io/badge/GitHub-Clef-black?style=for-the-badge&logo=github&logoColor=white)](https://jaynakum.github.io/Clef)
+
+[![HappyFace](https://img.shields.io/badge/GitHub-HappyFace-black?style=for-the-badge&logo=github&logoColor=white)](https://jaynakum.github.io/HappyFace)
+
+[![BitNCrypt](https://img.shields.io/badge/GitHub-BitNCrypt-black?style=for-the-badge&logo=github&logoColor=white)](https://jaynakum.github.io/BitNCrypt)
 
 [view more](https://github.com/JayNakum?tab=repositories)
 
@@ -35,7 +37,7 @@ I am always open to collaborate and follow up on suggestions, so please feel fre
 ---
 
 ### Let's Connect
-[![github.com/JayNakum](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayNakum)
+[![github.com/JayNakum](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayNakum)
 [![linkedin.com/in/JayNakum](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JayNakum)
 [![twitter.com/JayNakum_](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JayNakum_)
 [![youtube.com/@nakumjay](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nakumjay)
