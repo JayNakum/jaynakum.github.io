@@ -4,9 +4,10 @@
 I am a computer graphics and GPU programming enthusiast specializing in graphics APIs and low-level engine architecture. I bridge the gap between hardware and software, using C/C++ to push modern GPUs to their absolute limits. 
 When I'm not benchmarking custom ray tracers or tinkering with rendering pipelines, I'm usually working on 3D art and sometimes I get unplugged and play my guitar.
 
-[![My Resume](https://img.shields.io/badge/-Resume-0A66C2?style=for-the-badge&logo=overleaf)](https://github.com/JayNakum/Resume/blob/main/Documents/Jay_Nakum_Resume.pdf)
-[![linkedin.com/in/JayNakum](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JayNakum)
+[![Resume](https://img.shields.io/badge/-Resume-blue?style=for-the-badge&logo=overleaf)](https://github.com/JayNakum/Resume/blob/main/Documents/Jay_Nakum_Resume.pdf)
+[![linkedin.com/in/JayNakum](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JayNakum)
 [![github.com/JayNakum](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayNakum) 
+[![artstation.com/jaynakum](https://img.shields.io/badge/ArtStation-grey?style=for-the-badge&logo=artstation)](https://www.artstation.com/jaynakum) 
 
 ## Blogs
 
