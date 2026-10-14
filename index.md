@@ -1,8 +1,8 @@
 [![jaynakum.github.io](./assets/header.png)](https://jaynakum.github.io/)
 
 ## About Me
-I am a computer graphics and GPU programming enthusiast specializing in *graphics APIs* and *low-level engine architecture*. I bridge the gap between hardware and software, using *C/C++* to push modern *GPUs* to their absolute limits. 
-When I'm not benchmarking custom ray tracers or tinkering with rendering pipelines, I'm usually working on *3D art* and sometimes I get unplugged and *play my guitar*.
+I am a computer graphics and GPU programming enthusiast specializing in **graphics APIs** and **low-level engine architecture**. I bridge the gap between hardware and software, using **C/C++** to push modern **GPUs** to their absolute limits. 
+When I'm not benchmarking custom ray tracers or tinkering with rendering pipelines, I'm usually working on **3D art** and sometimes I get unplugged and **play my guitar**.
 
 [![Resume](https://img.shields.io/badge/-Resume-blue?style=for-the-badge&logo=overleaf)](https://github.com/JayNakum/Resume/blob/main/Documents/Jay_Nakum_Resume.pdf)
 [![linkedin.com/in/JayNakum](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JayNakum)
